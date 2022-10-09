@@ -11,8 +11,8 @@ Network and agent data.
 * Conection: st.csv - Column 1: start vertex, Column 2: end vertex 
 
 * Demand_of_service_arcs: 3 5 na 4 7 4 na na
-* Deadhead_cost_of_arcs: 7 5 na 4 7 4 na na
-* Service_cost_of_arcs: 5 5 4 4 7 4 5 3 
+* Service_cost_of_arcs: 7 5 na 4 7 4 na na
+* Deadhead_cost_of_arcs: 5 5 4 4 7 4 5 3 
 * Deadhead_time_of_arcs: 3 5 7 4 7 4 5 3 
 * Service_time_of_arcs: 3 5 7 4 7 4 5 3 
 
