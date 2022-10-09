@@ -16,7 +16,7 @@ Network and agent data.
 * Deadhead_time_of_arcs: 3 5 7 4 7 4 5 3 
 * Service_time_of_arcs: 3 5 7 4 7 4 5 3 
 
-* Unavailability of arcs: unav.csv 
+* Unavailability of arcs: a[i].csv - arcs 1<=i<=8 
 
 ### Agent 
 * Number_of_agents: 4 (CARP) 
