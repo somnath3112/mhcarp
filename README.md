@@ -8,7 +8,7 @@ Network and agent data.
 * Number_of_vertices: 5 
 * Number_of_arcs: 8 
 * Number_of_required arcs: 5 
-* Conection: st.csv - Column 1: start vertex Column 2: end vertex 
+* Conection: st.csv - Column 1: start vertex, Column 2: end vertex 
 
 * Demand_of_service_arcs: 3 5 na 4 7 4 na na
 * Deadhead_cost_of_arcs: 7 5 na 4 7 4 na na
@@ -16,7 +16,7 @@ Network and agent data.
 * Deadhead_time_of_arcs: 3 5 7 4 7 4 5 3 
 * Service_time_of_arcs: 3 5 7 4 7 4 5 3 
 
-* Unavailability of arcs: a[i].csv - arcs 1<=i<=8 
+* Unavailability of arcs: a[i].csv(arcs 1<=i<=8) - Column 1: lower limit, Column 2: upper limit 
 
 ### Agent 
 * Number_of_agents: 4 (CARP) 
